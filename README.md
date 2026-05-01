@@ -6,4 +6,6 @@ This repository contains all my C programs.
 - Basics
 - Loops
 - If-else
-- Strings
+- Pointer
+- Array
+- Function
