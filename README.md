@@ -9,3 +9,4 @@ This repository contains all my C programs.
 - Pointer
 - Array
 - Function
+- Structure
