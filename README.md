@@ -10,3 +10,4 @@ This repository contains all my C programs.
 - Array
 - Function
 - Structure
+- String
